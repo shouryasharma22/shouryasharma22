@@ -7,9 +7,6 @@ Computer Science & Engineering student at **National Institute of Technology Kar
 ### 🚀 About Me
 * 🎓 Studying Engineering at **NITK Surathkal**
 * 💻 Full-Stack Web Developer passionate about building robust, scalable tools for real-world communities
-* 🧠 Competitive programmer solving complex algorithmic and optimization challenges in **C++**
-* 🔬 Interested in emerging tech paradigms like **Brain-Computer Interfaces (BCI)** and AI integration
-* 🏃 Off-duty: Long-distance running enthusiast training for 5K personal bests
 * ⚡ **Fun fact:** I started learning web development only because I was very annoyed with how hard it was to find a single college resource. To fix it, I built and launched **[semexan.vercel.app](https://semexan.vercel.app)**!
 
 ---
