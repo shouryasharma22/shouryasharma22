@@ -27,6 +27,7 @@ Computer Science & Engineering student at **National Institute of Technology Kar
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/-Mongoose_ODM-05122A?style=flat&logo=mongodb)
 ![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square&logo=rest&logoColor=white)
 ![Google Drive API](https://img.shields.io/badge/Google_Drive_API-4285F4?style=flat-square&logo=googledrive&logoColor=white)
 
