@@ -42,12 +42,12 @@ Computer Science & Engineering student at **National Institute of Technology Kar
 
 ### 📦 Key Projects
 
-* **[Semexan](https://semexan.vercel.app)** (College Resource Platform)
+* **[Semexan](https://semexam.vercel.app)** (College Resource Platform)
   * Full-stack web application designed for NITK students to access academic materials, notes, and past papers.
   * Built with **React**, **Node.js/Express**, and **MongoDB**, integrated with **Google Drive API** for seamless document access.
   * Implemented server-side pagination, optimized query search, and configured network handling for restricted campus environments.
 
-* **[Community Watch](https://github.com/assaampuhel/community-watch)**
+* **[Community Watch](community-watch-hazel.vercel.app)**
   * A Codeforces anti-cheating & verification platform utilizing the Codeforces API to detect, verify, and report suspicious submissions and contest cheaters.
 
 * **Interactive Web Apps & Mini Tools**
