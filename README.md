@@ -47,7 +47,7 @@ Computer Science & Engineering student at **National Institute of Technology Kar
   * Built with **React**, **Node.js/Express**, and **MongoDB**, integrated with **Google Drive API** for seamless document access.
   * Implemented server-side pagination, optimized query search, and configured network handling for restricted campus environments.
 
-* **[Community Watch](community-watch-hazel.vercel.app)**
+* **[Community Watch](https://community-watch-hazel.vercel.app)** (Codeforces Cheating Detection platform)
   * A Codeforces anti-cheating & verification platform utilizing the Codeforces API to detect, verify, and report suspicious submissions and contest cheaters.
 
 * **Interactive Web Apps & Mini Tools**
