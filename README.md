@@ -61,11 +61,6 @@ Computer Science & Engineering student at **National Institute of Technology Kar
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shouryasharma22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shouryasharma22&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
-</div>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shouryasharma22&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
