@@ -51,11 +51,11 @@ Computer Science & Engineering student at **National Institute of Technology Kar
   * A Codeforces anti-cheating & verification platform utilizing the Codeforces API to detect, verify, and report suspicious submissions and contest cheaters.
 
 * **Interactive Web Apps & Mini Tools**
-  * **Weather Application (`weatherapp.html`):** Real-time asynchronous weather dashboard integrating external API data.
-  * **Guess the Number Game (`gtn2.html`):** Interactive browser game with DOM manipulation, input validation, and score tracking.
-  * **Digital Clock (`digiclock.html`):** Dynamic real-time clock application.
-  * **Color Picker (`colorpicker.html`):** Live UI color selection and palette utility tool.
-  * **BMI Calculator (`bmi.html`):** Health metric calculator handling real-time input parsing and validation.
+  * **Weather Application :** Real-time asynchronous weather dashboard integrating external API data.
+  * **Guess the Number Game :** Interactive browser game with DOM manipulation, input validation, and score tracking.
+  * **Digital Clock :** Dynamic real-time clock application.
+  * **Color Picker :** Live UI color selection and palette utility tool.
+  * **BMI Calculator :** Health metric calculator handling real-time input parsing and validation.
 
 ---
 
