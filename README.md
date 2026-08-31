@@ -40,7 +40,7 @@ Computer Science & Engineering student at **National Institute of Technology Kar
 
 ### 📦 Key Projects
 
-* **[Semexan](https://semexam.vercel.app)** (College Resource Platform)
+* **[Semexam](https://semexam.vercel.app)** (College Resource Platform)
   * Full-stack web application designed for NITK students to access academic materials, notes, and past papers.
   * Built with **React**, **Node.js/Express**, and **MongoDB**, integrated with **Google Drive API** for seamless document access.
   * Implemented server-side pagination, optimized query search, and configured network handling for restricted campus environments.
